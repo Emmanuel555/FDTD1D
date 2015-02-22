@@ -5,11 +5,12 @@ This is an implementation of 1D FDTD algorithm solveing the transmission line pr
 #System requirements:
 
 I'm using Archlinux, so assuming you have your sleek ArchLinux up and running with yaourt installed
-Octave or Matlab
+##Install Octave or Matlab
 
 ```
 yaourt -S octave
 ```
+for MATLAB, you know the legal way to get a copy right?
 
 #Running demo code
 In your Octave/Matlab prompt
