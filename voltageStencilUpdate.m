@@ -1,6 +1,6 @@
 % 1D FDTD implementation 
 % Reference: David B. Davidson's "Computational Electromagnetics for RF and Microwave Engineering"
-%     Copyright (C) 2014 Tao-Yi Lee
+%     Copyright (C) 2014 Tao-Yi Lee (tylee <AT> ieee <dot> org)
 % 
 %     This program is free software; you can redistribute it and/or modify
 %     it under the terms of the GNU General Public License as published by
